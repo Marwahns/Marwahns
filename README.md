@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marwah Nur Shafira</h1>
 
 <h3 align="center">I am an Informatic Student at Polytechnic Jakarta.</h3>
-<h3 align="center">Now aiming to become a Software Developer and a Data Scientist.</h3>
+<h3 align="center">Now aiming to become a .......</h3>
+
+<!-- <h3 align="center">Now aiming to become a Software Developer and a Data Scientist.</h3> -->
+
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwahns&label=Profile%20views&color=0e75b6&style=flat" alt="marwahns" /> </p>
 
