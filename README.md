@@ -1,4 +1,7 @@
 <!-- ![MasterHead](https://www.linkpicture.com/q/output-onlinegiftools_7.gif) -->
+<p align="center"
+  <a><img src='https://www.linkpicture.com/q/LPic64dc54cae0f2e1978205012.jpg' type='image'></a> 
+</p>
 
 <!-- Animated name -->
 <h1 align="center">
@@ -17,7 +20,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Marwahns&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Commits,Followers,PullRequest,Repositories"></p>
 
 <!-- Written About Section stuff -->
-<pre>🌱   ‎ I’m currently learning Software Engineer</pre>
+<pre>🌱 I’m currently learning Software Engineer</pre>
 
 <!-- Line divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
