@@ -17,6 +17,8 @@ jobs:
           COMMIT_MESSAGE: "Updated waka-readme graph with new metrics"
           COMMIT_BY_ME: "False"
           COMMIT_USERNAME: "Marwahns"
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
           SHOW_OS: "False"
           SHOW_PROJECTS: "True"
           SHOW_UPDATED_DATE: "True"
