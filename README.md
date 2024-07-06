@@ -21,16 +21,16 @@
 #
 
 <!--START_SECTION:waka-->
-**My GitHub Data** 
 
-> 📦 x kB Used in GitHub's Storage 
- > 
-> 🏆 x Contributions in the Year 2024
- > 
-> 📜 x Public Repositories 
- > 
-> 🔑 x Private Repositories 
- > 
+```txt
+From: 05 July 2024 - To: 06 July 2024
+
+Total Time: 26 mins
+
+YAML       16 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.20 %
+Markdown   9 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.80 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Activity Graph
