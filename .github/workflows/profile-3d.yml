@@ -1,10 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  # run automatically every 24 hours
-  # - cron: "0 */24 * * *"
+  # run automatically every 12 hours
   schedule:
-    - cron: "0 15 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
