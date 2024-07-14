@@ -84,8 +84,6 @@
 
 ---
 
-<br>
-
 <!--  Activity Graph -->
 <details>
 <summary>
@@ -114,8 +112,6 @@ YAML             47 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 </details>
-<br>
-
 
 <!--  Activity Graph -->
 <details>
@@ -133,7 +129,6 @@ YAML             47 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ---
 
 </details>
-<br>
 
 <!--  Dynamic Quotes -->
 <details>
