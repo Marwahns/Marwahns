@@ -6,7 +6,7 @@
 </h1>
 
 <!-- Written About Section stuff -->
-<pre>🌱 I’m currently learning Software Engineer</pre>
+<pre>🌱 I am currently studying Software Engineering</pre>
 
 <!--  Languages, Frameworks, and Tools -->
 ## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **Languages, Frameworks, and Tools**
