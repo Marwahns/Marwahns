@@ -92,7 +92,6 @@
   <b> WakaTime Stats </b>
 </h3>
 </summary>
-<br>
 
 <!--START_SECTION:waka-->
 
@@ -121,7 +120,6 @@ YAML             47 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <b> Activity Graph </b> 
 </h3>
 </summary>
-<br>
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
 </p>
@@ -135,7 +133,6 @@ YAML             47 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <summary>
 <h3 style='display: inline'> 📜 Dynamic Quotes </h3>
 </summary>
-<br>
 <p align='center'>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
