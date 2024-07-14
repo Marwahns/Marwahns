@@ -8,22 +8,25 @@
 <!-- Written About Section stuff -->
 <pre>🌱 I’m currently learning Software Engineer</pre>
 
-<!--  Languages and Frameworks -->
+<!--  Languages, Frameworks, and Tools -->
 ## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **Languages, Frameworks, and Tools**
 
 <table>
+    <!--  Backend -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td>
-          <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,php,laravel,net,django,flask,fastapi,cpp"/>
+          <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,net,django,flask,fastapi,cpp"/>
           <img width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-codeigniter-4-1175201.png?f=webp&w=512" alt="codeigniter" title="codeigniter" style='background-color:#242938; border-radius: 20%;'/>
           <img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest_api" title="REST API" style='background-color:#242938; border-radius: 20%;' />
         </td>
     </tr>
+    <!--  Frontend -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,js,jquery,tailwind"/></td>
     </tr>
+    <!--  Mobile -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile:</td>
         <td>
@@ -31,30 +34,35 @@
           <img height="40" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png" alt="jetpack_compose" title="Jetpack Compose" style="border-radius: 20%;"/>
         </td>
     </tr>
+    <!--  Database -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
         <td>
           <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,sqlite,sequelize"/>
         </td>
     </tr>
+    <!--  Data Science & AI -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data Science & AI:</td>
         <td>
-          <img height="40" src="https://skillicons.dev/icons?i=tensorflow,sklearn"/>
+          <img height="40" src="https://skillicons.dev/icons?i=tensorflow,anaconda,sklearn"/>
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy" style='background-color:#242938; border-radius: 20%;'/>
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" style='background-color:#242938; border-radius: 20%;'/>
         </td>
     </tr>
+    <!--  Game -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Game:</td>
         <td>
           <img height="40" src="https://skillicons.dev/icons?i=processing"/>
         </td>
     </tr>
+    <!--  DevOps -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=githubactions" alt="github_actions" title="Github Actions"/></td>
     </tr>
+    <!--  Hosting -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Hosting:</td>
         <td>
@@ -65,10 +73,12 @@
           <img height="40" src="https://img.stackshare.io/service/5267/k1SrAvnA_400x400.jpg" alt="000webhost" title="000webhost" style="border-radius: 20%;">
         </td>
     </tr>
+    <!--  Version Control -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
     </tr>
+    <!--  Other Tool -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
         <td>
