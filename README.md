@@ -24,7 +24,7 @@
     <!--  Frontend -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,html,css,js,jquery,tailwind"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,jquery,tailwind"/></td>
     </tr>
     <!--  Mobile -->
     <tr>
