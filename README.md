@@ -30,6 +30,7 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile:</td>
         <td>
+          <img height="40" src="https://skillicons.dev/icons?i=flutter" alt="flutter" title="flutter"/>
           <img height="40" src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" title="Kotlin"/>
           <img height="40" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jetpack-compose/jetpack-compose.png" alt="jetpack_compose" title="Jetpack Compose" style="border-radius: 20%;"/>
         </td>
