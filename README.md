@@ -9,6 +9,7 @@
 <pre>🌱 I am currently studying Software Engineering</pre>
 
 <!--  Languages, Frameworks, and Tools -->
+
 ## <picture><img src = "./assets/about_me.gif" width = 50px></picture> **Languages, Frameworks, and Tools**
 
 <table>
@@ -116,5 +117,5 @@
 <h3 style='display: inline'> 📜 Dynamic Quotes </h3>
 </summary>
 <p align='center'>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed&animation=grow_out_in" alt="quote">
 </p>
