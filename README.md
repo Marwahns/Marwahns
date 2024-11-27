@@ -69,9 +69,9 @@
         <td>
           <img height="40" src="https://skillicons.dev/icons?i=vercel" alt="vercel" title="Vercel"/>
           <img height="40" src="https://cdn-1.webcatalog.io/catalog/railway/railway-icon-filled-256.webp?v=1714775610392" alt="railway" title="Railway" style="border-radius: 20%;">
-          <img height="40" src="https://img.stackshare.io/service/4940/logo300x300.png" alt="pythonAnywhere" title="pythonAnywhere" style="border-radius: 20%;">
-          <img height="40" src="https://img.stackshare.io/stack/508688/default_c85654cdbd8aff0751f8628d64605faac44f586d.png" alt="koyeb" title="Koyeb" style="border-radius: 20%;">
-          <img height="40" src="https://img.stackshare.io/service/5267/k1SrAvnA_400x400.jpg" alt="000webhost" title="000webhost" style="border-radius: 20%;">
+          <img height="40" src="https://pbs.twimg.com/profile_images/1317006476/logo300x300_400x400.png" alt="pythonAnywhere" title="pythonAnywhere" style="border-radius: 20%;">
+          <img height="40" src="https://www.koyeb.com/images/koyeb-logo.svg" alt="koyeb" title="Koyeb" style="border-radius: 20%;">
+          <img height="40" src="https://imgs.search.brave.com/TY1g6vn8qCEVkbCVsxE-UbdRXRLx69wewcNZXTJReXM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTI1ZTIxN2Rl/ZThhYzRhZGY1MDNm/MzU1YWE1YWM4NjBi/N2I0YmNhMzYxYzlh/MjZiZGI4OGE1M2Yz/ZTJlNGMyZi93d3cu/MDAwd2ViaG9zdC5j/b20v" alt="000webhost" title="000webhost" style="border-radius: 20%;">
         </td>
     </tr>
     <!--  Version Control -->
@@ -87,8 +87,8 @@
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter_notebook" title="Jupyter Notebook" style='background-color:#242938; border-radius: 20%;'/>
           <img height="40" src="https://skillicons.dev/icons?i=postman,figma,arduino"/>
           <img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" title="Swagger" style='background-color:#242938; border-radius: 20%;'/>
-          <img width="40" src="https://img.stackshare.io/service/1881/default_1431993fb5378db3220eeba43566bb9f356418f7.png" alt="looker_studio" title="Looker Studio" style='border-radius: 20%;'/>
-          <img width="40" src="https://img.stackshare.io/service/695/BigQuery.png" alt="google_bigquery" title="Google BigQuery" style='background-color:#242938; border-radius: 20%;'/>
+          <img width="40" src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="looker_studio" title="Looker Studio" style='border-radius: 20%;'/>
+          <img width="40" src="https://www.celigo.com/wp-content/uploads/2024/05/brandmark-logo-google-bigquery.svg" alt="google_bigquery" title="Google BigQuery" style='background-color:#242938; border-radius: 20%;'/>
         </td>
     </tr>
 </table>
