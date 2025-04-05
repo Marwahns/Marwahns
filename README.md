@@ -62,7 +62,10 @@
     <!--  DevOps -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=githubactions" alt="github_actions" title="Github Actions"/></td>
+        <td>
+          <img height="40" src="https://skillicons.dev/icons?i=githubactions" alt="github_actions" title="Github Actions"/>
+          <img height="40" src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker"/>
+        </td>
     </tr>
     <!--  Hosting -->
     <tr>
