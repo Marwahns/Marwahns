@@ -17,7 +17,7 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td>
-          <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,net,django,flask,fastapi,cpp"/>
+          <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,net,flask,fastapi,cpp"/>
           <img width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-codeigniter-4-1175201.png?f=webp&w=512" alt="codeigniter" title="codeigniter" style='background-color:#242938; border-radius: 20%;'/>
           <img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest_api" title="REST API" style='background-color:#242938; border-radius: 20%;' />
         </td>
@@ -87,7 +87,7 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
         <td>
-          <img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio"/>
+          <img height="40" src="https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio"/>
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter_notebook" title="Jupyter Notebook" style='background-color:#242938; border-radius: 20%;'/>
           <img height="40" src="https://skillicons.dev/icons?i=postman,figma,arduino"/>
           <img width="40" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" title="Swagger" style='background-color:#242938; border-radius: 20%;'/>
