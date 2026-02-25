@@ -17,7 +17,7 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td>
-          <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel,net,flask,fastapi,cpp"/>
+          <img height="40" src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,express,php,laravel,net,cpp"/>
           <img width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-codeigniter-4-1175201.png?f=webp&w=512" alt="codeigniter" title="codeigniter" style='background-color:#242938; border-radius: 20%;'/>
           <img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest_api" title="REST API" style='background-color:#242938; border-radius: 20%;' />
         </td>
