@@ -1,12 +1,12 @@
 <!-- Animated name -->
 <h1 align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=750&height=75&lines=Hello+Fellow+<𝚌𝚘𝚍𝚎𝚛𝚜/>!+👋;I'm+Marwah;Computer+and+Informatics+Engineering+Student">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=750&height=75&lines=Hello+Fellow+<𝚌𝚘𝚍𝚎𝚛𝚜/>!+👋;I'm+Marwah;Software+Engineer%2C+Lifelong+Learner;Exploring+New+Technologies">
   </a>
 </h1>
 
 <!-- Written About Section stuff -->
-<pre>🌱 I am currently studying Software Engineering</pre>
+<pre>🌱 Software Engineering | Lifelong Learner</pre>
 
 <!--  Languages, Frameworks, and Tools -->
 
